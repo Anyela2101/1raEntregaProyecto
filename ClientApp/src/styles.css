@@ -1,0 +1,81 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #e01a76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+ html, body{
+   height: 100%;
+
+ }
+ img{
+   max-width: 100%;
+ }
+
+ #cover{
+   background: rgb(190, 63, 63) url('Imagenes/carniceria 19.jpg') center center no-repeat;
+   background-size: cover;
+   color: rgb(185, 183, 183);
+   height: 100%;
+   text-align: center;
+   display: flex;
+   align-items: center;
+ }
+
+ #coverclientes{
+  background: rgb(190, 63, 63) url('Imagenes/carniceria 19.jpg') center center no-repeat;
+  background-size: cover;
+  color: rgb(185, 183, 183);
+  height: 100%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+#coverDomicilio{
+  background: rgb(190, 63, 63) url('Imagenes/carniceria 19.jpg') center center no-repeat;
+  background-size: cover;
+  color: rgb(185, 183, 183);
+  height: 100%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+
+ #cover-texto{
+   width: 100%;
+ }
+ #cover-texto .form-inline{
+   padding: 5rem 0;
+ }
+
+ #acerca-de{
+   background: url('Imagenes/chuleta-cordero-verduras_95419-3051.jpg') center center no-repeat;
+   background-size: cover;
+
+ }
+
+ .textoa-acerca-de{
+   background: rgb(0,0,0, 0);
+   color: whitesmoke;
+   padding: 1.8755rem;
+ }
+
+ #footer{
+   background: #222;
+   color: whitesmoke;
+   font-size: 0.8rem;
+   padding: 2.5rem 0;
+
+ }
